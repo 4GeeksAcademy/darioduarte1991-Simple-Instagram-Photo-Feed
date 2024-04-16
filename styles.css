@@ -1,0 +1,64 @@
+body {
+	background: rgb(234, 234, 234);
+}
+
+.divisoriatitulo{
+	width: 700px;
+	display: flex;
+	background: rgb(255, 255, 255);
+	margin: auto;
+}
+
+.feedtitulo {
+	width: 93%;
+	margin-left: 20px;
+	font-size: x-large;
+	margin-top: 15px;
+}
+
+.feednumfoto {
+	width: 7%;
+	color: gray;
+}
+
+.divisoriaimagem{
+	display: block;
+  	margin: 0 auto;
+  	width: 700px;
+	height: 450px;
+}
+
+.divisoriadescricao{
+	width: 700px;
+	height: 70px;
+	background: rgb(255, 255, 255);
+	margin: auto;
+	margin-top: -22px;
+}
+
+.feeddescricao{
+	margin: 0;
+  	position: relative;
+ 	top: 50%;
+	margin-left: 20px;
+}
+
+.separacaofeeds{
+	width: 700px;
+	height: 70px;
+	margin: auto;
+}
+
+.websitetitulo{
+	width: 700px;
+	height: 70px;
+	margin: auto;
+	background: rgb(255, 255, 255);
+}
+
+.titulo{
+	margin: 0;
+	position: relative;
+ 	top: 15px;
+	left: 200px;
+}
